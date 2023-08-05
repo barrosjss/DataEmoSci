@@ -19,10 +19,6 @@ Hemos desarrollado un programa utilizando Jupyter Notebook, que incluye funcione
 
 El código también identifica palabras coocurrentes (bigramas) y sus relaciones, lo que nos permite crear una nube de palabras para visualizar la relevancia de las palabras en función de su frecuencia de coocurrencia. Dado que las consultas o criterios están en español, traducimos los resultados y procedemos con el preentrenamiento del modelo. Después de esto, determinamos la polaridad de los datos extraídos (Positivo, Negativo, Neutral) utilizando el módulo VADER de NLTK.
 
-## Análisis
-
-### Análisis de Sentimiento en Redes Sociales para Turismo Accesible de Personas con Discapacidad
-
 ## Resultados
 
 Después de extraer los tweets, analizamos la frecuencia de las palabras como se muestra en la siguiente tabla. Identificamos conectores como "la", "en", "de", etc., que se eliminarán para centrarse en las palabras que brindan contexto al contenido del tweet, como se muestra en la segunda tabla.
