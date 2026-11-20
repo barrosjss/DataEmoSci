@@ -1,0 +1,18 @@
+# Entorno para ejecutar los notebooks con versiones actuales (Python 3.10+)
+jupyterlab
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+plotly
+networkx
+wordcloud
+nltk
+spacy>=3.7
+pypdf
+PyPDF2
+tweepy>=4.14
+googletrans==4.0.0rc1
+python-dotenv

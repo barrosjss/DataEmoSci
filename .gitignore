@@ -1,0 +1,23 @@
+# Credenciales
+.env
+credentials.py
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Archivos generados por los notebooks
+test.txt
+whoops.txt
+contacts.txt
+tweets.txt
+1.txt
+2.txt
+
+# Sistema / editores
+.DS_Store
+.vscode/
+.idea/
